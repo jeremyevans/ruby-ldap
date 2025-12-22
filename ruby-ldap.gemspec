@@ -13,8 +13,6 @@ It provides the interface to some LDAP libraries (e.g. OpenLDAP, Netscape SDK an
   s.rubyforge_project = 'ruby-ldap'
   s.homepage = 'http://ruby-ldap.sourceforge.net/'
 
-  s.has_rdoc = true
-  
   s.require_path = 'lib'
 
   s.files = [ 'ChangeLog', 'COPYING', 'FAQ', 'NOTES', 'README', 'TODO' ]
